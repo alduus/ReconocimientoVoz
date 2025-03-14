@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{section.0.1}%
+\contentsline {section}{\numberline {2}Desarrollo}{2}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}Herramientas utilizadas}{2}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2}Metodología de desarrollo}{2}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {2.3}Código en Python}{3}{subsection.0.2.3}%
+\contentsline {section}{\numberline {3}Resultados gráficos de los audios}{4}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Audio 1 - La casa es grande.}{4}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Audio 2 - Mi perro se salió de casa.}{6}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Audio 3 - Casa es a lo que llamo hogar.}{8}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}Audio 4 - Los niños juegan en el parque.}{10}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.5}Audio 5 - En la mañana me preparo y salgo a la escuela.}{12}{subsection.0.3.5}%
+\contentsline {section}{\numberline {4}Conclusiones}{14}{section.0.4}%
